@@ -1,4 +1,4 @@
-# 🏁 Saylani Batch 17 Mini Hackathon - Responsive Landing Page
+x# 🏁 Saylani Batch 17 Mini Hackathon - Responsive Landing Page
 📅 Date: 27 July 2025  
 ⏱️ Time: 9 AM – 12 PM  
 🏫 Location: Saylani Head Office
